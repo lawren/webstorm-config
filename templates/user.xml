@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="/" value="/** $END$ */" description="Single-line JSDoc comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

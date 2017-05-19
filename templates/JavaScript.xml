@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="jd" value="/**&#10; * $COMMENT$&#10; */&#10;$END$" shortcut="ENTER" description="Creates a JSDoc Style Comment Block" toReformat="false" toShortenFQNames="true">
+    <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
