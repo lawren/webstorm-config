@@ -4,9 +4,10 @@
       <mapping ext="region" type="HTML" />
       <mapping ext="config" type="JSON" />
       <mapping pattern="console-png" type="JavaScript" />
-      <mapping pattern="transformicon.js" type="PLAIN_TEXT" />
       <mapping pattern="console-png.js" type="PLAIN_TEXT" />
+      <mapping pattern="transformicon.js" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="project" type="PLAIN_TEXT" />
       <mapping pattern="_icon-buttons" type="SCSS" />
       <mapping pattern="_icon-buttons.scss" type="SCSS" />
     </extensionMap>
