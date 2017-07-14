@@ -1,7 +1,7 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FilePathRelativeToProjectRoot$ --out-dir dist --source-maps --presets env" />
+      <option name="arguments" value="src --out-dir lib --copy-files" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="/usr/local/bin/babel" />
+      <option name="program" value="$USER_HOME$/.nvm/versions/node/v8.1.3/bin/babel" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$ContentRoot$" />
