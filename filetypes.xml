@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".graphql" type="GraphQL" />
-      <removed_mapping ext="graphql" type="GraphQL" />
-      <mapping ext="graphql" type="JavaScript" />
+      <removed_mapping ext="graphql" approved="true" type="GraphQL" />
+      <mapping ext="graphql" type="GraphQL Schema" />
       <mapping ext="plist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
