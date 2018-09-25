@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".graphql" type="GraphQL" />
+      <removed_mapping ext="graphql" type="GraphQL" />
       <mapping ext="graphql" type="JavaScript" />
       <mapping ext="plist" type="PLAIN_TEXT" />
     </extensionMap>
