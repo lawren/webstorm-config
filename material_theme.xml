@@ -4,7 +4,7 @@
     <option name="compactSidebar" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
     <option name="tabsHeight" value="50" />
     <option name="accentColor" value="009688" />
